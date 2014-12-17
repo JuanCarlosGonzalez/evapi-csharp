@@ -1,5 +1,5 @@
-evapi-charp
-===========
+evapi-csharp
+============
 
 evapi-csharp is an API client written in C# for connecting to the
 ExaVault API. The ExaVault API is a REST-y API providing operations
@@ -33,3 +33,5 @@ TODO
 TODO
 
 ##### Logging out #####
+
+TODO
